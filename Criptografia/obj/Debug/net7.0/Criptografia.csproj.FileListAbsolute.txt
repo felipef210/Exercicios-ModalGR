@@ -1,0 +1,15 @@
+C:\Users\Washington\Documents\ModalGR\Exercicios\Criptografia\obj\Debug\net7.0\Criptografia.csproj.AssemblyReference.cache
+C:\Users\Washington\Documents\ModalGR\Exercicios\Criptografia\obj\Debug\net7.0\Criptografia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Washington\Documents\ModalGR\Exercicios\Criptografia\obj\Debug\net7.0\Criptografia.AssemblyInfoInputs.cache
+C:\Users\Washington\Documents\ModalGR\Exercicios\Criptografia\obj\Debug\net7.0\Criptografia.AssemblyInfo.cs
+C:\Users\Washington\Documents\ModalGR\Exercicios\Criptografia\obj\Debug\net7.0\Criptografia.csproj.CoreCompileInputs.cache
+C:\Users\Washington\Documents\ModalGR\Exercicios\Criptografia\bin\Debug\net7.0\Criptografia.exe
+C:\Users\Washington\Documents\ModalGR\Exercicios\Criptografia\bin\Debug\net7.0\Criptografia.deps.json
+C:\Users\Washington\Documents\ModalGR\Exercicios\Criptografia\bin\Debug\net7.0\Criptografia.runtimeconfig.json
+C:\Users\Washington\Documents\ModalGR\Exercicios\Criptografia\bin\Debug\net7.0\Criptografia.dll
+C:\Users\Washington\Documents\ModalGR\Exercicios\Criptografia\bin\Debug\net7.0\Criptografia.pdb
+C:\Users\Washington\Documents\ModalGR\Exercicios\Criptografia\obj\Debug\net7.0\Criptografia.dll
+C:\Users\Washington\Documents\ModalGR\Exercicios\Criptografia\obj\Debug\net7.0\refint\Criptografia.dll
+C:\Users\Washington\Documents\ModalGR\Exercicios\Criptografia\obj\Debug\net7.0\Criptografia.pdb
+C:\Users\Washington\Documents\ModalGR\Exercicios\Criptografia\obj\Debug\net7.0\Criptografia.genruntimeconfig.cache
+C:\Users\Washington\Documents\ModalGR\Exercicios\Criptografia\obj\Debug\net7.0\ref\Criptografia.dll

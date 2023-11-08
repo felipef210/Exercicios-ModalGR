@@ -1,0 +1,15 @@
+C:\Users\Washington\Documents\ModalGR\Exercicios\Leitor_de_Textos\bin\Debug\net7.0\Leitor_de_Textos.exe
+C:\Users\Washington\Documents\ModalGR\Exercicios\Leitor_de_Textos\bin\Debug\net7.0\Leitor_de_Textos.deps.json
+C:\Users\Washington\Documents\ModalGR\Exercicios\Leitor_de_Textos\bin\Debug\net7.0\Leitor_de_Textos.runtimeconfig.json
+C:\Users\Washington\Documents\ModalGR\Exercicios\Leitor_de_Textos\bin\Debug\net7.0\Leitor_de_Textos.dll
+C:\Users\Washington\Documents\ModalGR\Exercicios\Leitor_de_Textos\bin\Debug\net7.0\Leitor_de_Textos.pdb
+C:\Users\Washington\Documents\ModalGR\Exercicios\Leitor_de_Textos\obj\Debug\net7.0\Leitor_de_Textos.csproj.AssemblyReference.cache
+C:\Users\Washington\Documents\ModalGR\Exercicios\Leitor_de_Textos\obj\Debug\net7.0\Leitor_de_Textos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Washington\Documents\ModalGR\Exercicios\Leitor_de_Textos\obj\Debug\net7.0\Leitor_de_Textos.AssemblyInfoInputs.cache
+C:\Users\Washington\Documents\ModalGR\Exercicios\Leitor_de_Textos\obj\Debug\net7.0\Leitor_de_Textos.AssemblyInfo.cs
+C:\Users\Washington\Documents\ModalGR\Exercicios\Leitor_de_Textos\obj\Debug\net7.0\Leitor_de_Textos.csproj.CoreCompileInputs.cache
+C:\Users\Washington\Documents\ModalGR\Exercicios\Leitor_de_Textos\obj\Debug\net7.0\Leitor_de_Textos.dll
+C:\Users\Washington\Documents\ModalGR\Exercicios\Leitor_de_Textos\obj\Debug\net7.0\refint\Leitor_de_Textos.dll
+C:\Users\Washington\Documents\ModalGR\Exercicios\Leitor_de_Textos\obj\Debug\net7.0\Leitor_de_Textos.pdb
+C:\Users\Washington\Documents\ModalGR\Exercicios\Leitor_de_Textos\obj\Debug\net7.0\Leitor_de_Textos.genruntimeconfig.cache
+C:\Users\Washington\Documents\ModalGR\Exercicios\Leitor_de_Textos\obj\Debug\net7.0\ref\Leitor_de_Textos.dll

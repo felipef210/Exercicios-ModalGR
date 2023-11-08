@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Leitor_de_Textos/1.0.0": {
+        "runtime": {
+          "Leitor_de_Textos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Leitor_de_Textos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Washington\Documents\ModalGR\Exercicios\Caixa_Eletronico\bin\Debug\net7.0\Caixa_Eletronico.exe
+C:\Users\Washington\Documents\ModalGR\Exercicios\Caixa_Eletronico\bin\Debug\net7.0\Caixa_Eletronico.deps.json
+C:\Users\Washington\Documents\ModalGR\Exercicios\Caixa_Eletronico\bin\Debug\net7.0\Caixa_Eletronico.runtimeconfig.json
+C:\Users\Washington\Documents\ModalGR\Exercicios\Caixa_Eletronico\bin\Debug\net7.0\Caixa_Eletronico.dll
+C:\Users\Washington\Documents\ModalGR\Exercicios\Caixa_Eletronico\bin\Debug\net7.0\Caixa_Eletronico.pdb
+C:\Users\Washington\Documents\ModalGR\Exercicios\Caixa_Eletronico\obj\Debug\net7.0\Caixa_Eletronico.csproj.AssemblyReference.cache
+C:\Users\Washington\Documents\ModalGR\Exercicios\Caixa_Eletronico\obj\Debug\net7.0\Caixa_Eletronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Washington\Documents\ModalGR\Exercicios\Caixa_Eletronico\obj\Debug\net7.0\Caixa_Eletronico.AssemblyInfoInputs.cache
+C:\Users\Washington\Documents\ModalGR\Exercicios\Caixa_Eletronico\obj\Debug\net7.0\Caixa_Eletronico.AssemblyInfo.cs
+C:\Users\Washington\Documents\ModalGR\Exercicios\Caixa_Eletronico\obj\Debug\net7.0\Caixa_Eletronico.csproj.CoreCompileInputs.cache
+C:\Users\Washington\Documents\ModalGR\Exercicios\Caixa_Eletronico\obj\Debug\net7.0\Caixa_Eletronico.dll
+C:\Users\Washington\Documents\ModalGR\Exercicios\Caixa_Eletronico\obj\Debug\net7.0\refint\Caixa_Eletronico.dll
+C:\Users\Washington\Documents\ModalGR\Exercicios\Caixa_Eletronico\obj\Debug\net7.0\Caixa_Eletronico.pdb
+C:\Users\Washington\Documents\ModalGR\Exercicios\Caixa_Eletronico\obj\Debug\net7.0\Caixa_Eletronico.genruntimeconfig.cache
+C:\Users\Washington\Documents\ModalGR\Exercicios\Caixa_Eletronico\obj\Debug\net7.0\ref\Caixa_Eletronico.dll
